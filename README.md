@@ -1,6 +1,5 @@
-# README.md
 
-## Tuffy’s Kitchen and Restaurant
+# Tuffy’s Kitchen and Restaurant
 
 This project is a comprehensive **full-stack food delivery web application** developed as part of the Web Programming course for Semester IV. It features an intuitive frontend for users to browse, select, and order dishes, supported by a robust backend for authentication and order processing.
 
