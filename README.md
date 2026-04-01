@@ -44,9 +44,3 @@ The application replicates the features of leading food delivery platforms, incl
 The project successfully delivers a responsive and interactive user experience by leveraging the React.js ecosystem. The structured integration between the frontend and backend provides a solid foundation for future scalability and feature enhancements.
 
 ---
-
-## Source Code
-The full source code for this project can be accessed via the following link:
-[**Google Drive Project Link**](https://drive.google.com/drive/folders/1ZU_mkYJoUeXhfqsf0MmsAEsGeTxlvaE8?dmr=1&ec=wgc-drive-globalnav-goto)
-
----
